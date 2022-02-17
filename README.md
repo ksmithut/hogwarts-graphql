@@ -14,7 +14,7 @@ to keep track of the following things:
      - `id` (ID)
      - `name` (string)
      - `author` (string) not a reference to any other object
-     - `class` (Class)
+     - `course` (Course)
 
 2. Course
 
