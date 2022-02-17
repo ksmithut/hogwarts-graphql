@@ -47,7 +47,7 @@ to keep track of the following things:
      - `id` (ID)
      - `name` (string)
      - `sections` (Section[])
-     - `office_hours` (string) something like "MW 10-11:15 TTh 2:30-3:45", nothing fancy
+     - `officeHours` (string) something like "MW 10-11:15 TTh 2:30-3:45", nothing fancy
 
 6. Student
 
