@@ -63,7 +63,7 @@ efficiently in a single query:
 
 1. Given a student id I would like to know what my course schedule is. This does
    not need to be in any given order.
-2. Given a student id I would like to know what books I need for this semembers.
+2. Given a student id I would like to know what books I need for this semester.
 3. Given a course id I would like to know all of the students who are taking
    that course.
 4. Given a book id I would like to know how many people need that book.
